@@ -1,0 +1,6 @@
+vendor/
+test.mjs
+bench.mjs
+bench2.mjs
+stat.mjs
+fuzz2.mjs
